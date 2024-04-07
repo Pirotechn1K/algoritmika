@@ -48,6 +48,7 @@ class Ball(GameSprite2):
             self.rect.x += self.speed
 
 
+
 class Player(GameSprite):
 
     def update(self):
